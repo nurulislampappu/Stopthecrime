@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Stop The Crime</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_emmergency_maps">Map</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="title_activity_nav_drawer">STOP THE CRIME</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Stop The Crime</string>
+    <string name="nav_header_subtitle">workingonit</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="defaultHelpMessageString">GET HELP, I AM IN DANGER!</string>
+    <string name="defaultTrustedNumber">+8801000000000</string>
+
+    <!--string name="google_maps_api_key"></string!-->
+
+    <string name="gps_enabled">GPS is not Enabled!</string>
+    <string name="gps_enabled_question">Do you want to enable GPS?</string>
+    <string name="yes">yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="time">Time of request:</string>
+    <string name="phone_id">phone ID:</string>
+    <string name="response">Response:</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="user_profile">Profile</string>
+    <string name="log_out">Logout</string>
+    <string name="sample_mail">email@gmail.com</string>
+    <string name="location_info_header">LOCATION INFO</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="time_label">Time</string>
+    <string name="phone_id_label">Phone ID</string>
+    <string name="label_share_my_location_to_all_trusted_contacts">Share My Location \nTo All Trusted Contacts</string>
+    <string name="label_edit_custom_message">EDIT CUSTOM MESSAGE</string>
+    <string name="label_edit_trusted_contacts">EDIT TRUSTED CONTACTS</string>
+    <string name="hashtag_label">#StopTheCrime</string>
+    <string name="reload_symbol">↻</string>
+    <string name="label_back">Back</string>
+    <string name="custom_message_header">CUSTOM MESSAGE</string>
+    <string name="label_enter_your_custom_help_message_here">Enter Your Custom Help Message Here</string>
+    <string name="label_save_message">Save Message</string>
+    <string name="label_set_default">Set Default</string>
+    <string name="label_preview_message">Preview Message</string>
+    <string name="alert_message_custom_message">Make Sure Message isn\'t too long!  Your Location (Google Maps Link) and Time will be appended with this message automatically.</string>
+    <string name="send_feedback_button_text">Click Here to Send Your Feedback,  This will open a Google Form in Your Browser. Fill It Up</string>
+    <string name="about_beta_version">
+        This is an early beta version of this app, which means features are meant to be buggy where other ones may not even work. We are working on several features and UI changes which may even change how you interact with the app.
+        \n\t# Asking for help in the anonymous option will broadcast your location to all users of the as a help message.
+        \n\t# A Merged Button to trigger both The anonymous help and offline help together.
+        \n\t# We plan to have the map in the home screen and minimal icon buttons for actions. Making the UX more intuitive.
+
+    </string>
+    <string name="back_text">Back</string>
+    <string name="label_enter_your_trusted_contact_numbers">Enter Your Trusted Contact Numbers</string>
+    string>
+
+</resources>
